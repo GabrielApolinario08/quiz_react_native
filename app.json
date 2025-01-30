@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "jogo_milhao",
-    "slug": "jogo_milhao",
+    "name": "quiz",
+    "slug": "quiz",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
